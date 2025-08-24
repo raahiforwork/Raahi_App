@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "373114711433",
+    "firebase_url": "https://raahi00011-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "raahi00011",
+    "storage_bucket": "raahi00011.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373114711433:android:3f7634ee1fb1094b100558",
+        "android_client_info": {
+          "package_name": "com.example.raahi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEHW5sLa8CPDPNj_hOZaXrskzu6HkYhoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
